@@ -128,7 +128,7 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">Mae Fah Luang University画像クリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">Mae Fah Luang University、画像クリックでGoogleMapsに飛びます</span></h2>
 
 <a href="https://www.google.com/maps/dir/19.9071837,99.8333139/3V4W%2B72G+Mae+Fah+Luang+University+swimming+pool,+Tha+Sut,+Mueang+Chiang+Rai+District,+Chiang+Rai+57100/@20.0103808,99.8776235,16.47z/data=!4m9!4m8!1m0!1m5!1m1!1s0x30d6fffc34af2c4b:0xf99a1d0602a817e3!2m2!1d99.8949439!2d20.0556771!3e0!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241130_001.png" alt="サンプル画像" width="900" /></a>
 
