@@ -138,7 +138,7 @@ p.note { display: none; }
 <h2><span class="yellow">国道から1.７Km進むと大学の本体</span></h2>
 <a href="20241130_001.JPG" target="_blank"><img src="20241130_001.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">プールの外観</span></h2>
+<h2><span class="yellow">さらに1.4Km先にある、プールの外観</span></h2>
 <a href="20241130_002.JPG" target="_blank"><img src="20241130_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">プールは一般開放されていて、80バーツ（ ≒ ¥350-）で時間制限なしで入れます</span></h2>
