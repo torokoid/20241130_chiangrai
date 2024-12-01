@@ -146,10 +146,9 @@ p.note { display: none; }
 
 <br><br>
 
-<h2><span class="yellow">子供達の水泳教室も開催されていました</span></h2>
-
+<h2><span class="yellow">子供達の水泳教室も開催されていました
 <a href="https://youtube.com/shorts/kVv7HzktC0A?feature=share" target="_blank">プール景観の動画</a>
-
+</span></h2>
 
 
 <br><br><br>
