@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/30 、Swiming Pool !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/30 、Mae Fah Luang University swimming pool !!!</marquee></span></h1>
 
 
 
@@ -128,22 +128,27 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">Mae Fah Luang University swimming pool</span></h2>
+<h2><span class="yellow">Mae Fah Luang University画像クリックでGoogleMapsに飛びます</span></h2>
 
+<a href="https://www.google.com/maps/dir/19.9071837,99.8333139/3V4W%2B72G+Mae+Fah+Luang+University+swimming+pool,+Tha+Sut,+Mueang+Chiang+Rai+District,+Chiang+Rai+57100/@20.0103808,99.8776235,16.47z/data=!4m9!4m8!1m0!1m5!1m1!1s0x30d6fffc34af2c4b:0xf99a1d0602a817e3!2m2!1d99.8949439!2d20.0556771!3e0!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241130_001.png" alt="サンプル画像" width="900" /></a>
 
-<a href="20241129_024.JPG" target="_blank"><img src="20241129_024.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241129_025.JPG" target="_blank"><img src="20241129_025.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241129_026.JPG" target="_blank"><img src="20241129_026.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">プールに行くには、国道からさらに３kmほど入ります</span></h2>
+<a href="20241130_002.png" target="_blank"><img src="20241130_002.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">Very stylish venue</span></h2>
+<h2><span class="yellow">国道から1.７Km進むと大学の本体</span></h2>
+<a href="20241130_001.JPG" target="_blank"><img src="20241130_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">プールの外観</span></h2>
+<a href="20241130_002.JPG" target="_blank"><img src="20241130_002.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">プールは一般開放されていて、80バーツ（ ≒ ¥350-）で時間制限なしで入れます</span></h2>
+<a href="20241130_003.JPG" target="_blank"><img src="20241130_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<br><br><br>
+<br><br>
 
-<h2><span class="yellow">VDO_Link</span></h2>
+<h2><span class="yellow">子供達の水泳教室も開催されていました</span></h2>
 
-
+<a href="https://youtube.com/shorts/kVv7HzktC0A?feature=share" target="_blank">プール景観の動画</a>
 
 
 
