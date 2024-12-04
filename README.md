@@ -153,6 +153,12 @@ p.note { display: none; }
 
 <br><br><br>
 
+<h2><span class="yellow">国道の検問所から南下して大学敷地内に入りプールまで行く動画と、その逆コースの動画です</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JysIrIsgJjA?si=8oGc1zgshRkgIrG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j8ls7jPzLNk?si=d_-6NHQ-3uobTJK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 <br><br><br>
